@@ -1,0 +1,35 @@
+.container{
+    width: 96%;
+    margin: 0 auto;
+}
+.field{
+    margin-bottom: 16px;
+}
+.field label{
+    display: block;
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.field .field-input{
+    display: block;
+    width: 100%;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px #ff144f;
+    border: 0 none;
+    outline: 0;
+}
+.button {
+    display: inline-block;
+    padding: 25px 50px;
+    margin: 5px;
+    background-color: #ff144f;
+    border-radius: 8px;
+    box-shadow: 1px 1px 5px black;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+  }
